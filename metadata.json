@@ -1,0 +1,7 @@
+{
+  "name": "Com2uS World Expedition Onboarding",
+  "description": "A gamified 5-stage onboarding quest app for new Com2uS employees, featuring an AI mentor to guide them through their first day.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
